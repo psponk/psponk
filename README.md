@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @psponk
+- 👋 Hi, I’m Prit Samarnpaisit
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Computer Engineering KU
 - 💞️ I’m looking to collaborate on ...
